@@ -11,3 +11,4 @@
 
 - https://github.com/Doonkey/FBReaderJ/commit/1ae9a03a55bd35dc6f636d13b4dc85fec94253c5 -> the container.xml file cause  unable to parse epub file     
 epub (jni/NativeFormats/zlibrary/core/src/filesystem/ZLFile.cpp)
+   OR even better: https://github.com/Doonkey/FBReaderJ/commit/5ccdfa1c77abd690033053b1e705d16e242f140b
